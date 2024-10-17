@@ -37,3 +37,6 @@ API Integration: Hugging Face APIs are used to integrate translation, text gener
 Testing: Conducted thorough testing to ensure translations are accurate and images are relevant to the generated text.
 4. Deployment
 Platform: The application is deployed using Hugging Face Spaces, but it can also be deployed on AWS if needed.
+
+https://huggingface.co/spaces/gokilashree/translate_image_generation
+![image](https://github.com/user-attachments/assets/dbad6831-89af-437e-b5c6-422e3a5a96a0)
