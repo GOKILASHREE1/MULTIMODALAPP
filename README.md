@@ -27,7 +27,7 @@ Gradio or Streamlit for UI
 AWS for deployment (optional)
 Approach
 1. Model Selection
-Translation Model: Helsinki-NLP/opus-mt-ta-en is used for Tamil to English translation.
+Translation Model: facebook/mbart-large-50-many-to-one-mmt is used for Tamil to English translation.
 Text-to-Image Model: stabilityai/stable-diffusion-xl-base-1.0 or other reliable text-to-image models such as CompVis/stable-diffusion-v1-4 to generate images based on the translated English text.
 Creative Text Generation: Use GPT-based models like EleutherAI/gpt-neo to produce creative written content based on the translated input.
 2. Application Development
